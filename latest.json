@@ -1,14 +1,1 @@
-{
-  "packages": [
-    {
-      "id": "kotvisual",
-      "name": "KotVisual",
-      "version": "1.0.7",
-      "minecraft": "1.21.4",
-      "loader": "fabric",
-      "fileName": "KotVisual.jar",
-      "url": "https://raw.githubusercontent.com/23122kot/kotvisual-updates/main/KotVisual-1.0.7.jar",
-      "sha256": "5c93107509fc793290441242b8b09c2e4c34cf215c944142914f1e3b5ebfaef7"
-    }
-  ]
-}
+{"packages":[{"id":"kotvisual","name":"KotVisual","version":"1.0.8","minecraft":"1.21.4","loader":"fabric","fileName":"KotVisual.jar","url":"https://raw.githubusercontent.com/23122kot/kotvisual-updates/main/KotVisual-1.0.8.jar","sha256":"80b59e9805f25b6143146fa1db33d32884cd60cb83240213bcde36f553edadc1"}]}
